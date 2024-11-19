@@ -71,5 +71,5 @@
 ---
 ## About the Developers 👨‍💻👩‍💻  
 
-- This project was collaboratively developed by **Tharunkrishna M** and teammate **Yeshas Raju**, leveraging their expertise in Python, machine learning, and GUI development to create an innovative label detection application
+- This project was collaboratively developed by **Yeshas Raju** and teammate **Tharunkrishna M**, leveraging their expertise in Python, machine learning, and GUI development to create an innovative label detection application
 ---
